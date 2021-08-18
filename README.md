@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Renzo's github stats](https://github-readme-stats.vercel.app/api?username=renzo01&show_icons=true&hide_border=true)&nbsp;&nbsp;
 <!--
 **renzo01/renzo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
