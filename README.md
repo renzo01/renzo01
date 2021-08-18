@@ -1,6 +1,13 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Renzo Gómez!](https://www.linkedin.com/in/renzo-manuel-g%C3%B3mez-c%C3%A9sare-740660175/)
 ![Renzo's github stats](https://github-readme-stats.vercel.app/api?username=renzo01&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Renzo's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renzo01&layout=compact&langs_count=8&hide_border=true)
+
+
+### 📫 &nbsp; How to reach me:
+
+
+<a href="https://www.linkedin.com/in/renzo-manuel-g%C3%B3mez-c%C3%A9sare-740660175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:renzogomez577@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <!--
 **renzo01/renzo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
