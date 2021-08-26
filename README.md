@@ -12,6 +12,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express](https://img.shields.io/badge/-Express%20-333333?style=flat&logo=express)
+  ![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce&logoColor=blue)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
