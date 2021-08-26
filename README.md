@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Renzo Gómez!](https://www.linkedin.com/in/renzo-manuel-g%C3%B3mez-c%C3%A9sare-740660175/)
 
-<img src="https://raw.githubusercontent.com/renzo01/renzo01/main/code.gif" width="30px"/>
+<img src="https://raw.githubusercontent.com/renzo01/renzo01/main/code.gif" style="width: 382px;height: 224px;"/>
 
 ![Renzo's github stats](https://github-readme-stats.vercel.app/api?username=renzo01&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Renzo's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renzo01&layout=compact&langs_count=8&hide_border=true)
